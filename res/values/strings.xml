@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TimetableManagement</string>
+    <string name="back">戻る</string>
+    <string name="space"></string>
+    <string name="colon">:</string>
+
+    <!-- (main.xml -->
+    <string name="editLec">時間割設定</string>
+    <string name="setupFunc">機能設定</string>
+    <string name="editTime">講義時間設定</string>
+    <!-- main.xml) -->
+
+
+    <!-- (editlectur.xml -->
+    <string name="week">曜日</string>
+    <string name="time">限目</string>
+    <string name="lecName">講義名 :　</string>
+    <string name="dispName">表示名 :　</string>
+    <string name="teacherName">教師名 :　</string>
+    <string name="place">場所 : </string>
+    <string name="add">追加</string>
+    <string name="save">保存</string>
+
+    <string-array name="week">
+        <item>月</item>
+        <item>火</item>
+        <item>水</item>
+        <item>木</item>
+        <item>金</item>
+    </string-array>
+    <string-array name="time">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <!-- editlectur.xml) -->
+
+
+    <!-- (edittime.xml -->
+    <string name="connect"> / </string>
+    <!-- edittime.xml) -->
+
+
+    <!-- (layout_pref.xml -->
+    <string name="addTimeTitle">時間</string>
+    <string name="addTimeSummary">何限まであるのかを設定します</string>
+    <string name="addTimeDialog">時間割の長さ</string>
+    <string name="addSatTitle">土曜日追加</string>
+    <string name="addSatSummary">土曜日を追加します</string>
+    <string name="addSunTitle">日曜日追加</string>
+    <string name="addSunSummary">日曜日を追加します</string>
+    <!-- layout_pref.xml) -->
+
+
+    <!-- (show_lectur.xml -->
+    <string name="erase">削除</string>
+    <string name="timeLimit">期日</string>
+    <string name="memo">メモ</string>
+    <!-- show_lectur.xml) -->
+
+
+    <!-- (show_lecmemo.xml -->
+    <string name="saveDate">保存日時</string>
+    <string name="limitDate">期限</string>
+    <!-- show_lecmemo.xml) -->
+
+</resources>

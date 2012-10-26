@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="addTimeEntries">
+        <item>4限</item>
+        <item>5限</item>
+        <item>6限</item>
+        <item>7限</item>
+        <item>8限</item>
+        <item>9限</item>
+    </string-array>
+    <string-array name="addTimeValues">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+</resources>

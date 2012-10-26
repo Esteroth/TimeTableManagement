@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ListPreference
+        android:dialogTitle="@string/addTimeDialog"
+        android:entries="@array/addTimeEntries"
+        android:entryValues="@array/addTimeValues"
+        android:key="addTimeLength"
+        android:summary="@string/addTimeSummary"
+        android:title="@string/addTimeTitle" />
+
+    <CheckBoxPreference
+        android:key="addSat"
+        android:summary="@string/addSatSummary"
+        android:title="@string/addSatTitle" />
+    <CheckBoxPreference
+        android:key="addSun"
+        android:summary="@string/addSunSummary"
+        android:title="@string/addSunTitle" />
+
+</PreferenceScreen>

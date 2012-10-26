@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <GridView
+        android:listSelector="@drawable/selector"
+        android:id="@+id/timeTable"
+        android:verticalSpacing="0sp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+    </GridView>
+
+</LinearLayout>
